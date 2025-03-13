@@ -15,10 +15,9 @@ This is a simple iOS application built using SwiftUI that allows users to search
 
 ## Screenshots
 
-![Search](search.png)
-![Search Results](searh_results.png)
-![Details](details.png)
-
+<img src="search.png" alt="" width="350" height="600">
+<img src="search_results.png" alt="" width="350" height="600">
+<img src="details.png" alt="" width="350" height="600">
 
 ## Requirements
 
