@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		0EB653D52D8383CC00F809D3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0EB653D42D8383CC00F809D3 /* README.md */; };
 		0EB653D62D8383CC00F809D3 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0EB653D32D8383CC00F809D3 /* demo.gif */; };
+		0EB653DA2D8384EF00F809D3 /* details.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EB653D92D8384EF00F809D3 /* details.png */; };
+		0EB653DB2D8384EF00F809D3 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EB653D72D8384EF00F809D3 /* search.png */; };
+		0EB653DC2D8384EF00F809D3 /* searh_results in Resources */ = {isa = PBXBuildFile; fileRef = 0EB653D82D8384EF00F809D3 /* searh_results */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,9 @@
 		0E69D13A2D8371ED00F59A50 /* FlickrSearchAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlickrSearchAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EB653D32D8383CC00F809D3 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		0EB653D42D8383CC00F809D3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		0EB653D72D8384EF00F809D3 /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = "<group>"; };
+		0EB653D82D8384EF00F809D3 /* searh_results */ = {isa = PBXFileReference; lastKnownFileType = file; path = searh_results; sourceTree = "<group>"; };
+		0EB653D92D8384EF00F809D3 /* details.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = details.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -82,6 +88,9 @@
 		0E69D1172D8371EB00F59A50 = {
 			isa = PBXGroup;
 			children = (
+				0EB653D72D8384EF00F809D3 /* search.png */,
+				0EB653D82D8384EF00F809D3 /* searh_results */,
+				0EB653D92D8384EF00F809D3 /* details.png */,
 				0EB653D32D8383CC00F809D3 /* demo.gif */,
 				0EB653D42D8383CC00F809D3 /* README.md */,
 				0E69D1222D8371EB00F59A50 /* FlickrSearchApp */,
@@ -223,6 +232,9 @@
 			files = (
 				0EB653D52D8383CC00F809D3 /* README.md in Resources */,
 				0EB653D62D8383CC00F809D3 /* demo.gif in Resources */,
+				0EB653DA2D8384EF00F809D3 /* details.png in Resources */,
+				0EB653DB2D8384EF00F809D3 /* search.png in Resources */,
+				0EB653DC2D8384EF00F809D3 /* searh_results in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
