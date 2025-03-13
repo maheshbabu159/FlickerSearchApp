@@ -2,6 +2,9 @@
 
 This is a simple iOS application built using SwiftUI that allows users to search for images on Flickr. It displays search results in a grid, showing the photo thumbnails, and provides detailed information about each photo when selected.
 
+![Demo](demo.gif)
+
+
 ## Features
 
 - Search for images on Flickr by entering a keyword in the search bar.

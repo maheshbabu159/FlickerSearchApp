@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		0EB653D52D8383CC00F809D3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0EB653D42D8383CC00F809D3 /* README.md */; };
+		0EB653D62D8383CC00F809D3 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0EB653D32D8383CC00F809D3 /* demo.gif */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		0E69D1312D8371ED00F59A50 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +32,8 @@
 		0E69D1202D8371EB00F59A50 /* FlickrSearchApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlickrSearchApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E69D1302D8371ED00F59A50 /* FlickrSearchAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlickrSearchAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E69D13A2D8371ED00F59A50 /* FlickrSearchAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlickrSearchAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0EB653D32D8383CC00F809D3 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		0EB653D42D8383CC00F809D3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +82,8 @@
 		0E69D1172D8371EB00F59A50 = {
 			isa = PBXGroup;
 			children = (
+				0EB653D32D8383CC00F809D3 /* demo.gif */,
+				0EB653D42D8383CC00F809D3 /* README.md */,
 				0E69D1222D8371EB00F59A50 /* FlickrSearchApp */,
 				0E69D1332D8371ED00F59A50 /* FlickrSearchAppTests */,
 				0E69D13D2D8371ED00F59A50 /* FlickrSearchAppUITests */,
@@ -212,6 +221,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EB653D52D8383CC00F809D3 /* README.md in Resources */,
+				0EB653D62D8383CC00F809D3 /* demo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
