@@ -15,10 +15,13 @@ This is a simple iOS application built using SwiftUI that allows users to search
 
 ## Screenshots
 
+<p align="center">
+
 <img src="search.png" alt="" width="350" height="600">
 <img src="search_results.png" alt="" width="350" height="600">
 <img src="details.png" alt="" width="350" height="600">
 
+</p>
 ## Requirements
 
 - Xcode 12.0 or later.
